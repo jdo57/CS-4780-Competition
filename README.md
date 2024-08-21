@@ -1,6 +1,6 @@
 # CS-4780-Spring-2024-Kaggle-Competition
 Submission for the CS 4780:  Intro to Machine Learning course during the Spring 2024 semester. 
-This course has transitioned to be now known as CS 3780.
+This course is now known as CS 3780.
 
 This version of the course and competition were offered through Professors Killian Weinberger and Karthik Sridharan. 
 After learning about a various number of machine learning algorithms/models it was time to put our knowledge to the test with this competition. 
