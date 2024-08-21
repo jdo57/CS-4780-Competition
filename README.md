@@ -1,6 +1,6 @@
 # CS-4780-Spring-2024-Kaggle-Competition
 Submission for the CS 4780:  Intro to Machine Learning course during the Spring 2024 semester. 
-This course has transition to be now known as CS 3780.
+This course has transitioned to be now known as CS 3780.
 
 This version of the course and competition were offered through Professors Killian Weinberger and Karthik Sridharan. 
 After learning about a various number of machine learning algorithms/models it was time to put our knowledge to the test with this competition. 
@@ -12,14 +12,17 @@ Below are the instructions and the rules provided for the competition:
 **CS4780 Spring 2024 Kaggle Competition - Hearts**
 
 **Task**
+
 You are given a train / validation / test split of the patient data. Your task is to predict the "label", i.e. whether the patient—based on the provided markers—has heart disease.
 
 **Dataset (basic)**
+
 Each dataset (train, validation, test) is formatted as a .csv file where each row is a separate patient and each column represents some feature.
 
 Train and validation sets contain their corresponding target labels as values corresponding to the column label.
 
 **Evaluation**
+
 Note that there is a public leaderboard and a private leaderboard. When you submit predictions on the provided test data, about half of the test data will be evaluated to create a public leaderboard score (which everyone can see). The other half will be evaluated for the private leaderboard score (which only the staff can see). The final placings will be based on the private leaderboard score.
 
 The scores will be computed as the % of correct classifications on the submitted predictions.
@@ -27,6 +30,7 @@ The scores will be computed as the % of correct classifications on the submitted
 For full credit your score on the private test cases should be > 92 %.
 
 **Submission File**
+
 You should submit a file submission.csv in the following format:
 
 id,label
