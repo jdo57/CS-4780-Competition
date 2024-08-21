@@ -42,3 +42,5 @@ id,label
 
 ...
 
+Thank you to both professors for this project! I hope to work more on machine learning projects within the future!
+
