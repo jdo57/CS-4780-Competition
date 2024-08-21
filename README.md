@@ -35,7 +35,10 @@ You should submit a file submission.csv in the following format:
 
 id,label
 7,1
+
 53,0
+
 9,0
+
 ...
 
