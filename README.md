@@ -1,4 +1,4 @@
-# CS-4780-Spring-2024-Kaggle-Competition
+# CS-4780-Competition
 Submission for the CS 4780:  Intro to Machine Learning course during the Spring 2024 semester. 
 This course is now known as CS 3780.
 
