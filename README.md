@@ -9,38 +9,5 @@ Throughout the span of this competition I was able to implement both the logisit
 
 Below are the instructions and the rules provided for the competition:
 
-**CS4780 Spring 2024 Kaggle Competition - Hearts**
-
-**Task**
-
-You are given a train / validation / test split of the patient data. Your task is to predict the "label", i.e. whether the patient—based on the provided markers—has heart disease.
-
-**Dataset (basic)**
-
-Each dataset (train, validation, test) is formatted as a .csv file where each row is a separate patient and each column represents some feature.
-
-Train and validation sets contain their corresponding target labels as values corresponding to the column label.
-
-**Evaluation**
-
-Note that there is a public leaderboard and a private leaderboard. When you submit predictions on the provided test data, about half of the test data will be evaluated to create a public leaderboard score (which everyone can see). The other half will be evaluated for the private leaderboard score (which only the staff can see). The final placings will be based on the private leaderboard score.
-
-The scores will be computed as the % of correct classifications on the submitted predictions.
-
-For full credit your score on the private test cases should be > 92 %.
-
-**Submission File**
-
-You should submit a file submission.csv in the following format:
-
-id,label
-7,1
-
-53,0
-
-9,0
-
-...
-
-Thank you to both professors for this project! I hope to work more on machine learning projects within the future!
+Thank you to both professors for this project! I hope to work on more machine learning projects within the future!
 
